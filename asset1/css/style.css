@@ -1,0 +1,12 @@
+.container {
+	margin-top: 100px;
+}
+
+body {
+	background-image: url('./asset1/img/img-4.jpg');
+	background-size: cover;
+}
+
+h1 {
+	color: #fff;
+}
